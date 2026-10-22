@@ -6,5 +6,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aptraka&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aptraka&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on K.R.M.T Wongsonegoro Hospital
 - 🌱 I’m currently learning Web development using React
